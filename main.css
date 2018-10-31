@@ -1,0 +1,28 @@
+body  {
+  padding-left: 10%;
+  padding-right: 10%
+}
+h1 {
+	display: block;
+	text-align: center;
+}
+img {
+	margin: 10px;
+}
+.center {
+	left: 50%;
+
+}
+.left {
+	float: left;
+	overflow-x: 
+}
+p {
+	font-family: 'Times New Roman'
+}
+.cursiv {
+	font-style: italic;
+}
+.textCenter {
+	text-align: center;
+	}
