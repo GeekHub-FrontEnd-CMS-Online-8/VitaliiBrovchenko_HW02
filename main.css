@@ -26,3 +26,10 @@ p {
 .textCenter {
 	text-align: center;
 	}
+div {
+	overflow: hidden;
+}
+.vis {
+	overflow: visible;
+	text-align: center;
+}
